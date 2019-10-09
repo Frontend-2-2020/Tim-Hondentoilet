@@ -3,4 +3,30 @@ $body-color: slateblue;
 body {
   color: $body-color;
   font-family: sans-serif;
+  margin: 0;
+  color: black;
+}
+h1{
+  margin: 10px;
+  color: pink;
+}
+
+h2{
+  margin:0;
+}
+
+#map{
+  height: 500px;
+}
+
+.info{
+  width: 30%;
+  display: inline-block;
+}
+.infoeElement{
+  margin: 10px;
+}
+.map{
+  width: 60%;
+  display: inline-block;
 }
